@@ -21,16 +21,20 @@
 | 금   |     ✅    |    ✅     |     ✅    |     ✅    |
 | 주말  |     ❎    |    ✅     |     ✅     |     ❎      |
 
-## 7/24 ~ 
-- [4. 2075 N번째 큰 수](https://www.acmicpc.net/problem/2075)
-- [5. 16234 인구 이동](https://www.acmicpc.net/problem/16234)
-- [6. 43238 입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
+## 7/24 ~ 26
+- [1. 2075 N번째 큰 수](https://www.acmicpc.net/problem/2075)
+- [2. 16234 인구 이동](https://www.acmicpc.net/problem/16234)
+- [3. 43238 입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
 
 | 요일 | summercat | Kyo     	| hamo    	| inho    	|
 |:---:|:---------:|:---------:|:---------:|:---------:|
 | 월   |           |          |           |           |
 | 화   |           |          |           |           |
 | 수   |           |          |           |           |
+
+
+| 요일 | summercat | Kyo     	| hamo    	| inho    	|
+|:---:|:---------:|:---------:|:---------:|:---------:|
 | 목   |           |           |           |           |
 | 금   |           |           |           |           |
 | 주말  |           |          |           |           |
