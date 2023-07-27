@@ -32,6 +32,10 @@
 | 화   |    ❎     |     ✅   |     ✅     |     ✅    |
 | 수   |    ✅     |          |           |           |
 
+## 7/27 ~ 30
+- [1. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)
+- [2. 공유기 설치](https://www.acmicpc.net/problem/1806)
+- [3. n으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
 
 | 요일 | summercat | Kyo     	| hamo    	| inho    	|
 |:---:|:---------:|:---------:|:---------:|:---------:|
