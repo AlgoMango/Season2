@@ -1,3 +1,6 @@
+// 개념: https://www.acmicpc.net/board/view/68623
+// 풀이: https://www.acmicpc.net/source/share/2e8b21f265ec49eeae1aecbbf73a2db1
+
 var input = readLine()!.split(separator: " ").compactMap { Int(String($0)) }
 let n = input[0]
 let c = input[1]
