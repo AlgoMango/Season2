@@ -49,4 +49,4 @@
 |:-----------------------------------------------:|:---------:|:---------:|:---------:|:---------:|
 |[고층건물](https://www.acmicpc.net/problem/1027)   |     ❎    |            |          |            |
 |[구슬탈출](https://www.acmicpc.net/problem/13459)  |           |            |          |            |
-|[숫자카드](https://www.acmicpc.net/problem/10815)  |    ✅     |     ✅     |          |  ✅        |
+|[숫자카드](https://www.acmicpc.net/problem/10815)  |    ✅     |     ✅     |   ✅       |  ✅        |
