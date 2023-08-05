@@ -56,5 +56,5 @@
 |:-----------------------------------------------:|:---------:|:---------:|:---------:|:---------:|
 |[고층건물](https://www.acmicpc.net/problem/1027)   |           |            |          |            |
 |[구슬탈출](https://www.acmicpc.net/problem/13459)  |           |            |          |            |
-|[가희와키워드](https://www.acmicpc.net/problem/22233)|          |           |          |             |
+|[가희와키워드](https://www.acmicpc.net/problem/22233)|          |      ❎    |          |             |
 |[지름길](https://www.acmicpc.net/problem/1446)   |             |            |         |          | 
