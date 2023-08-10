@@ -58,3 +58,11 @@
 |[구슬탈출](https://www.acmicpc.net/problem/13459)  |           |            |          |            |
 |[가희와키워드](https://www.acmicpc.net/problem/22233)|          |      ❎    |          |             |
 |[지름길](https://www.acmicpc.net/problem/1446)   |             |            |         |          | 
+
+## 08/10 ~ 08/13 
+| 문제                                                           | summercat | Kyo     	| hamo    	| inho    	|
+|:-------------------------------------------------------------:|:---------:|:---------:|:---------:|:---------:|
+|[지름길](https://www.acmicpc.net/problem/1446)                   |            |            |         |          |
+|[과자 나눠주기](https://www.acmicpc.net/problem/16401)             |            |            |         |          | 
+|[두 용액](https://www.acmicpc.net/problem/2470)                  |             |            |         |          | 
+|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) |            |            |         |          | 
