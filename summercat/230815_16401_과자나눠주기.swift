@@ -1,3 +1,6 @@
+// 탐색 범위, mid 값 결정에 신경써야 한다
+// mid = (left + right) / 2 로 하면 mid = 0인 경우 때문에 안됨!
+
 let input = readLine()!.split(separator: " ").compactMap { Int(String($0)) }
 let sticks: [Int] = readLine()!.split(separator: " ").compactMap { Int(String($0)) }
 
