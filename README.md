@@ -9,6 +9,20 @@
 
 ---
 
+[이분탐색 바킹독 문제집](https://www.acmicpc.net/workbook/view/8400)
+[이분탐색 프로그래머스](https://school.programmers.co.kr/learn/courses/30/parts/12486)
+[투 포인터 바킹독 문제집](https://www.acmicpc.net/workbook/view/8709)
+[릿코드](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+
+## 08/28 ~ 08/31
+| 문제                                             | summercat | Kyo     	| hamo    	| inho    	|
+|:-----------------------------------------------:|:---------:|:---------:|:---------:|:---------:|
+|[과자 나눠주기](https://www.acmicpc.net/problem/16401)|         |            |          |            |
+|[두 용액](https://www.acmicpc.net/problem/2470)    |          |            |           |          | 
+|[고층건물](https://www.acmicpc.net/problem/1027)   |           |            |          |            |
+
+---
+
 ## 7/20 ~ 23
 총 5문제 풀기 (파일 내에 푸는 데 걸린 시간 작성)
 - [1. 14190 쉬운 최단거리](https://www.acmicpc.net/problem/14940)
