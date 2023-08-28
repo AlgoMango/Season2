@@ -9,10 +9,10 @@
 
 ---
 
-[이분탐색 바킹독 문제집](https://www.acmicpc.net/workbook/view/8400)
-[이분탐색 프로그래머스](https://school.programmers.co.kr/learn/courses/30/parts/12486)
-[투 포인터 바킹독 문제집](https://www.acmicpc.net/workbook/view/8709)
-[릿코드](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+[이분탐색 바킹독 문제집](https://www.acmicpc.net/workbook/view/8400) <br>
+[이분탐색 프로그래머스](https://school.programmers.co.kr/learn/courses/30/parts/12486) <br>
+[투 포인터 바킹독 문제집](https://www.acmicpc.net/workbook/view/8709) <br>
+[릿코드](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) <br>
 
 ## 08/28 ~ 08/31
 | 문제                                             | summercat | Kyo     	| hamo    	| inho    	|
