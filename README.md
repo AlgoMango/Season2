@@ -19,7 +19,7 @@
 |:-----------------------------------------------:|:---------:|:---------:|:---------:|:---------:|
 |[과자 나눠주기](https://www.acmicpc.net/problem/16401)|         |            |          |      ❎    |
 |[두 용액](https://www.acmicpc.net/problem/2470)    |          |      ✅    |    ✅     |     ✅     | 
-|[고층건물](https://www.acmicpc.net/problem/1027)   |           |            |          |            |
+|[고층건물](https://www.acmicpc.net/problem/1027)   |           |            |          |     ✅     |
 
 ---
 
