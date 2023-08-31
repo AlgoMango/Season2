@@ -14,6 +14,15 @@
 [투 포인터 바킹독 문제집](https://www.acmicpc.net/workbook/view/8709) <br>
 [릿코드](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) <br>
 
+## 08/31 ~ 09/03
+| 문제                                             | summercat | Kyo     	| hamo    	| inho    	|
+|:-----------------------------------------------:|:---------:|:---------:|:---------:|:---------:|
+|[겹치는건 싫엉](https://www.acmicpc.net/problem/20922)|         |            |          |             |
+|[택배 배송](https://www.acmicpc.net/problem/5972)    |         |            |          |             |
+|[달여행](https://www.acmicpc.net/problem/17484)   |           |            |          |             |
+
+----
+
 ## 08/28 ~ 08/31
 | 문제                                             | summercat | Kyo     	| hamo    	| inho    	|
 |:-----------------------------------------------:|:---------:|:---------:|:---------:|:---------:|
