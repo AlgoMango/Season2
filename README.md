@@ -18,7 +18,7 @@
 | 문제                                             | summercat | Kyo     	| hamo    	| inho    	|
 |:-----------------------------------------------:|:---------:|:---------:|:---------:|:---------:|
 |[겹치는건 싫엉](https://www.acmicpc.net/problem/20922)|         |            |          |      ✅     |
-|[택배 배송](https://www.acmicpc.net/problem/5972)    |         |            |          |             |
+|[택배 배송](https://www.acmicpc.net/problem/5972)    |         |            |          |     ❎      |
 |[달여행](https://www.acmicpc.net/problem/17484)   |           |            |          |             |
 
 ----
